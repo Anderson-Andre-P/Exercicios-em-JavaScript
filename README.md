@@ -120,8 +120,8 @@ Nota | Conceito até 20 faltas | Conceito mais de 20 faltas
     • Ou ter pelo menos 60 anos e ter trabalhado pelo menos 25 anos.
 
 44) Escreva um programa que receba o salário mensal de um funcionário e calcule o valor a ser pago para o Imposto de Renda conforme tabela abaixo:
-Salário | Alíquota (%)
---------|-------------
+Salário | Alíquota
+:---: | :---:
 Até 1.499,15 | -
 De 1.499,16 até 2.246,75 | 7,5
 De 2.246,76 até 2.995,70 | 15,0
