@@ -43,13 +43,13 @@ Seu programa deverá mostrar o valor que cada ganhador deverá receber.
 
 16) Escreva um algoritmo para criar um programa de ajuda para vendedores. A partir de um valor total lido, mostre:
 
-    • o total a pagar com desconto de 10%;
+    - o total a pagar com desconto de 10%;
     
-    • o valor de cada parcela, no parcelamento de 3 x sem juros;
+    - o valor de cada parcela, no parcelamento de 3 x sem juros;
     
-    • a comissão do vendedor, no caso de a venda ser a vista (5% sobre o valor com desconto)
+    - a comissão do vendedor, no caso de a venda ser a vista (5% sobre o valor com desconto)
     
-    • a comissão do vendedor, no caso de a venda ser parcelada (5% sobre o valor total)
+    - a comissão do vendedor, no caso de a venda ser parcelada (5% sobre o valor total)
 
 17) Faça um algoritmo que receba a altura do degrau de uma escada e a altura que o usuário deseja alcançar subindo a escada. Calcule e mostre quantos degraus o usuário deverá subir para atingir seu objetivo.
 
@@ -112,13 +112,13 @@ DigitoV = resto da divisão de S por 7, onde S = 6*A + 5*B + 4*C + 3*D + 2*E
 
 41) Dados três valores, A, B, C, verificar se eles podem ser valores dos lados de um triângulo e, se for um triângulo, informar se é um triângulo escaleno, um triângulo equilátero ou um triângulo isóscele. Considerando os seguintes conceitos:
     
-    • O comprimento de cada lado de um triângulo é menor do que a soma dos outros dois lados.
+    - O comprimento de cada lado de um triângulo é menor do que a soma dos outros dois lados.
     
-    • Chama-se equilátero o triângulo que tem três lados iguais.
+    - Chama-se equilátero o triângulo que tem três lados iguais.
     
-    • Chama-se isósceles o triângulo que tem o comprimento de dois lados iguais.
+    - Chama-se isósceles o triângulo que tem o comprimento de dois lados iguais.
     
-    • Recebe o nome de escaleno o triângulo que tem os três lados diferentes.
+    - Recebe o nome de escaleno o triângulo que tem os três lados diferentes.
 
 42) Leia a nota e o número de faltas de um aluno, e escreva seu conceito. De acordo com a tabela abaixo, quando o aluno tem mais de 20 faltas ocorre uma redução de conceito.
 
@@ -132,11 +132,11 @@ Nota | Conceito até 20 faltas | Conceito mais de 20 faltas
 
 43) Faça um programa que leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se aposentar. As condições para aposentadoria são:
     
-    • Ter pelo menos 65 anos;
+    - Ter pelo menos 65 anos;
     
-    • Ou ter trabalhado pelo menos 30 anos;
+    - Ou ter trabalhado pelo menos 30 anos;
     
-    • Ou ter pelo menos 60 anos e ter trabalhado pelo menos 25 anos.
+    - Ou ter pelo menos 60 anos e ter trabalhado pelo menos 25 anos.
 
 44) Escreva um programa que receba o salário mensal de um funcionário e calcule o valor a ser pago para o Imposto de Renda conforme tabela abaixo:
 
@@ -160,15 +160,15 @@ Acima de 20 anos | Adulto
 
 46) Faça um programa que receba o sexo de uma pessoa (M ou F) e sua altura. Seu programa deve calcular o peso ideal dessa pessoa conforme as seguintes fórmulas:
     
-    Homens: (72.7 * h) - 58
+    **Homens: (72.7 * h) - 58**
     
-    Mulheres: (62.1 * h) - 44.7
+    **Mulheres: (62.1 * h) - 44.7**
 
 47) Escreva um programa que converta um valor inteiro positivo para a notação romana. Símbolos utilizados na notação romana: I, V, X, L, C, D, M.
 
 48) Faça um programa que calcule a área de um trapézio. Sabe-se que:
 
-A = (baseMaior + baseMenor) * altura / 2
+**A = (baseMaior + baseMenor) * altura / 2**
 
 49) O custo ao consumidor de um carro novo é a soma do custo de fábrica, da comissão do distribuidor, e dos impostos. A comissão e os impostos são calculados sobre o custo de fábrica, de acordo com a tabela abaixo. Leia o custo de fábrica e escreva o custo ao consumidor.
 
@@ -180,7 +180,7 @@ Acima de 25000,01 | 15 | 20
 
 50) O IMC (Índice de Massa Corporal) é uma medida do grau de obesidade uma pessoa. Através do cálculo de IMC é possível saber se alguém está acima ou abaixo dos parâmetros ideais de peso para sua estatura. Faça um programa que dado o peso e a altura de uma pessoa, calcule o mostre a sua classificação de IMC conforme tabela e fórmula abaixo:
 
-IMC = peso * altura / 2
+**IMC = peso * altura / 2**
 
 IMC | Classificação
 :---: | :---:
@@ -273,19 +273,19 @@ Apresente um programa que receba um valor de N e calcule o valor de Hn.
 76) Chico tem 1.50 metro e cresce 2 centímetros por ano, enquanto Zé tem 1.10 metros e cresce 3 centímetros por ano. Construa um algoritmo que calcule e imprima quantos anos serão necessários para que Zé seja maior que Chico.
 
 77) Em uma eleição presidencial existem quatro candidatos. Os votos são informados através de códigos. Os dados utilizados para a contagem dos votos obedecem à seguinte codificação:
+
+    - 1, 2, 3, 4 = voto para os respectivos candidatos;
     
-    • 1, 2, 3, 4 = voto para os respectivos candidatos;
+    - 5 = voto nulo;
     
-    • 5 = voto nulo;
-    
-    • 6 = voto em branco;
+    - 6 = voto em branco;
 
 Elabore um algoritmo que leia o código do candidato em um voto. Calcule e escreva:
-    
-    • total de votos para cada candidato;
-    
-    • total de votos nulos;
-    
-    • total de votos em branco;
 
+   - total de votos para cada candidato;
+    
+   - total de votos nulos;
+    
+   - total de votos em branco;
+    
 Como finalizador do conjunto de votos, tem-se o valor 0.
