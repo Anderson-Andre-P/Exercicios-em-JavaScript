@@ -114,12 +114,131 @@ Nota | Conceito até 20 faltas | Conceito mais de 20 faltas
 4.0 - 4.9 | D | E
 0.0 - 3.9 | E | E
 
+43) Faça um programa que leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se aposentar. As condições para aposentadoria são:
+    • Ter pelo menos 65 anos;
+    • Ou ter trabalhado pelo menos 30 anos;
+    • Ou ter pelo menos 60 anos e ter trabalhado pelo menos 25 anos.
 
+44) Escreva um programa que receba o salário mensal de um funcionário e calcule o valor a ser pago para o Imposto de Renda conforme tabela abaixo:
+Salário | Alíquota (%)
+:---: | :---:
+Até 1.499,15 | -
+De 1.499,16 até 2.246,75 | 7,5
+De 2.246,76 até 2.995,70 | 15,0
+De 2.995,71 até 3.743,19 | 22,5
+Acima de 3.743,19 | 27,5
 
+45) Escreva um programa que receba a idade de um nadador e mostre a sua classificação conforme tabela abaixo:
+Idade | Classificação
+:---: | :---:
+De 2 a 5 anos | Infantil A
+De 6 a 12 anos | Infantil B
+De 13 a 15 anos | Juvenil A
+De 16 a 19 anos | Juvenil B
+Acima de 20 anos | Adulto
 
+46) Faça um programa que receba o sexo de uma pessoa (M ou F) e sua altura. Seu programa deve calcular o peso ideal dessa pessoa conforme as seguintes fórmulas:
+    Homens: (72.7 * h) - 58
+    Mulheres: (62.1 * h) - 44.7
 
+47) Escreva um programa que converta um valor inteiro positivo para a notação romana. Símbolos utilizados na notação romana: I, V, X, L, C, D, M.
 
+48) Faça um programa que calcule a área de um trapézio. Sabe-se que:
+A = (baseMaior + baseMenor) * altura / 2
 
+49) O custo ao consumidor de um carro novo é a soma do custo de fábrica, da comissão do distribuidor, e dos impostos. A comissão e os impostos são calculados sobre o custo de fábrica, de acordo com a tabela abaixo. Leia o custo de fábrica e escreva o custo ao consumidor.
+Custo de Fábrica | % do distribuidor | % dos impostos
+:---: | :---: | :---:
+Até 12000,00 | 5 | Isento
+Entre 12000,01 e 25000,00 | 10 | 15
+Acima de 25000,01 | 15 | 20
 
+50) O IMC (Índice de Massa Corporal) é uma medida do grau de obesidade uma pessoa. Através do cálculo de IMC é possível saber se alguém está acima ou abaixo dos parâmetros ideais de peso para sua estatura. Faça um programa que dado o peso e a altura de uma pessoa, calcule o mostre a sua classificação de IMC conforme tabela e fórmula abaixo:
+IMC = peso * altura / 2
+IMC | Classificação
+:---: | :---:
+< 18,5 | Abaixo do peso
+18,6 - 24,9 | Saudável
+25,0 - 29,9 | Peso em excesso
+30,0 - 34,9 | Obesidade grau I
+35,0 - 39,9 | Obesidade grau II (severa)
+> 40,0 | Obesidade grau III (mórbida)
 
+51) Escreva um programa que leia a data de nascimento de uma pessoa (dia, mês e ano) e informe se essa pessoa está ou não em idade para votar (16 anos)
 
+**Estrutura de Repetição**
+
+52) Faça um programa que imprima na tela 50 vezes o seu nome.
+
+53) Faça um programa que receba um número N e imprima na tela N vezes o seu nome.
+
+54) Faça um programa que determine o mostre os cinco primeiros múltiplos de 3, considerando números maiores que 0.
+
+55) Faça um programa que receba um número N e imprima na tela os primeiros N números inteiros ímpares.
+
+56) Escreva um programa que escreva na tela de 1 em 1, de 1 até 1000, 3 vezes. A primeira vez deve usar a estrutura de repetição for, a segunda while, e a terceira do while.
+
+57) Faça um programa que leia um número positivo do usuário, calcule e imprima a sequência de Fibonacci até o primeiro número superior ao número lido. Exemplo: se o usuário informou o número 30, a sequência a ser impressa será: 0 1 1 2 3 5 8 13 21 34.
+
+58) Faça um programa que calcule e mostre a soma dos 50 primeiros números pares positivos.
+
+59) Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais de 0 até N em ordem crescente.
+
+60) Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais de 0 até N em ordem decrescente.
+
+61) Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais pares de 0 até N em ordem decrescente.
+
+62) Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais ímpares de 0 até N em ordem crescente.
+
+63) Elabore um programa que faça a leitura de vários números inteiros, até que se digite um número negativo. O programa tem que retornar o maior e o menor número lido.
+
+64) Faça um programa que receba um número inteiro maior do que 1, e verifique se o número fornecido é primo ou não.
+
+65) Faça um programa que receba vários números, calcule e mostre:
+    (a) A soma dos números digitados
+    (b) A quantidade de números digitados
+    (c) A média dos números digitados
+    (d) O maior número digitado
+    (e) O menor número digitado
+    (f) A média dos números pares
+Finalize a entrada de dados caso o usuário informe o valor 0.
+
+66) Escreva um programa que leia um número inteiro positivo N e em seguida imprima N linhas do chamado Triangulo de Floyd:
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+
+67) Faça um programa que some todos os números naturais abaixo de 1000 que são múltiplos de 3 ou 5.
+
+68) Faça um programa que calcule a soma de todos os números primos abaixo de dois milhões.
+
+69) Escreva um programa que leia um número inteiro e calcule a soma de todos os divisores desse número, com exceção dele próprio.
+Ex: a soma dos divisores do número 66 é: 1 + 2 + 3 + 6 + 11 + 22 + 33 = 78
+
+70) Em Matemática, o número harmônico designado por Hn define-se como sendo o enésimo termo da série harmônica. Ou seja:
+Hn = 1 + 1/2 + 1/3 + 1/4 + ::: + 1/n
+Apresente um programa que receba um valor de N e calcule o valor de Hn.
+
+71) Escreva um programa que leia 10 números e escreva o menor valor lido e o maior valor lido.
+
+72) Escreva um programa que leia 10 números e escreva a quantidade de números pares e a quantidade de números ímpares.
+
+73) Faça um programa que leia um número indeterminado de linhas contendo cada uma a idade de um indivíduo (pare quando for informada a idade 0), e calcule a idade média desse grupo de indivíduos.
+
+74) Faça um programa que conte quantos números primos existem entre a e b.
+
+75) Faça um programa que some os números primos existentes entre a e b.
+
+76) Chico tem 1.50 metro e cresce 2 centímetros por ano, enquanto Zé tem 1.10 metros e cresce 3 centímetros por ano. Construa um algoritmo que calcule e imprima quantos anos serão necessários para que Zé seja maior que Chico.
+
+77) Em uma eleição presidencial existem quatro candidatos. Os votos são informados através de códigos. Os dados utilizados para a contagem dos votos obedecem à seguinte codificação:
+    • 1, 2, 3, 4 = voto para os respectivos candidatos;
+    • 5 = voto nulo;
+    • 6 = voto em branco;
+Elabore um algoritmo que leia o código do candidato em um voto. Calcule e escreva:
+    • total de votos para cada candidato;
+    • total de votos nulos;
+    • total de votos em branco;
+Como finalizador do conjunto de votos, tem-se o valor 0.
