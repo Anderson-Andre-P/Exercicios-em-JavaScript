@@ -130,6 +130,7 @@ De 2.995,71 até 3.743,19 | 22,5
 Acima de 3.743,19 | 27,5
 
 45) Escreva um programa que receba a idade de um nadador e mostre a sua classificação conforme tabela abaixo:
+
 Idade | Classificação
 :---: | :---:
 De 2 a 5 anos | Infantil A
@@ -148,6 +149,7 @@ Acima de 20 anos | Adulto
 A = (baseMaior + baseMenor) * altura / 2
 
 49) O custo ao consumidor de um carro novo é a soma do custo de fábrica, da comissão do distribuidor, e dos impostos. A comissão e os impostos são calculados sobre o custo de fábrica, de acordo com a tabela abaixo. Leia o custo de fábrica e escreva o custo ao consumidor.
+
 Custo de Fábrica | % do distribuidor | % dos impostos
 :---: | :---: | :---:
 Até 12000,00 | 5 | Isento
@@ -156,9 +158,10 @@ Acima de 25000,01 | 15 | 20
 
 50) O IMC (Índice de Massa Corporal) é uma medida do grau de obesidade uma pessoa. Através do cálculo de IMC é possível saber se alguém está acima ou abaixo dos parâmetros ideais de peso para sua estatura. Faça um programa que dado o peso e a altura de uma pessoa, calcule o mostre a sua classificação de IMC conforme tabela e fórmula abaixo:
 IMC = peso * altura / 2
+
 IMC | Classificação
 :---: | :---:
-< 18,5 | Abaixo do peso
+\< 18,5 | Abaixo do peso
 18,6 - 24,9 | Saudável
 25,0 - 29,9 | Peso em excesso
 30,0 - 34,9 | Obesidade grau I
@@ -196,12 +199,14 @@ IMC | Classificação
 64) Faça um programa que receba um número inteiro maior do que 1, e verifique se o número fornecido é primo ou não.
 
 65) Faça um programa que receba vários números, calcule e mostre:
+
     (a) A soma dos números digitados
     (b) A quantidade de números digitados
     (c) A média dos números digitados
     (d) O maior número digitado
     (e) O menor número digitado
     (f) A média dos números pares
+    
 Finalize a entrada de dados caso o usuário informe o valor 0.
 
 66) Escreva um programa que leia um número inteiro positivo N e em seguida imprima N linhas do chamado Triangulo de Floyd:
