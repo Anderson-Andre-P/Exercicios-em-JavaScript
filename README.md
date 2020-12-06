@@ -28,9 +28,11 @@ Neste repositório serão colocados alguns exercícios simples de Lógica de pro
 12) Faça um programa que receba o valor do salário de um funcionário e o percentual de aumento. Seu programa deve mostrar o valor do novo salário.
 
 13) Um prêmio de 456.000,00 será dividido entre três ganhadores com a seguinte distribuição:
+
     1º Lugar - 50% do prêmio
     2º Lugar - 30% do prêmio
     3º Lugar - resto do valor
+    
 Seu programa deverá mostrar o valor que cada ganhador deverá receber.
 
 14) Uma empresa contrata um encanador a R$ 30,00 por dia. Crie um programa que solicite o número de dias trabalhados pelo encanador e imprima a quantia líquida que deverá ser paga, sabendo-se que são descontados 8% para imposto de renda.
