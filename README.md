@@ -29,11 +29,11 @@ Neste repositório serão colocados alguns exercícios simples de Lógica de pro
 
 13) Um prêmio de 456.000,00 será dividido entre três ganhadores com a seguinte distribuição:
 
-    1º Lugar - 50% do prêmio
+    **1º Lugar - 50% do prêmio**
     
-    2º Lugar - 30% do prêmio
+    **2º Lugar - 30% do prêmio**
     
-    3º Lugar - resto do valor
+    **3º Lugar - resto do valor**
     
 Seu programa deverá mostrar o valor que cada ganhador deverá receber.
 
@@ -43,13 +43,13 @@ Seu programa deverá mostrar o valor que cada ganhador deverá receber.
 
 16) Escreva um algoritmo para criar um programa de ajuda para vendedores. A partir de um valor total lido, mostre:
 
-    - o total a pagar com desconto de 10%;
+   - o total a pagar com desconto de 10%;
     
-    - o valor de cada parcela, no parcelamento de 3 x sem juros;
+   - o valor de cada parcela, no parcelamento de 3 x sem juros;
     
-    - a comissão do vendedor, no caso de a venda ser a vista (5% sobre o valor com desconto)
+   - a comissão do vendedor, no caso de a venda ser a vista (5% sobre o valor com desconto)
     
-    - a comissão do vendedor, no caso de a venda ser parcelada (5% sobre o valor total)
+   - a comissão do vendedor, no caso de a venda ser parcelada (5% sobre o valor total)
 
 17) Faça um algoritmo que receba a altura do degrau de uma escada e a altura que o usuário deseja alcançar subindo a escada. Calcule e mostre quantos degraus o usuário deverá subir para atingir seu objetivo.
 
@@ -112,13 +112,13 @@ DigitoV = resto da divisão de S por 7, onde S = 6*A + 5*B + 4*C + 3*D + 2*E
 
 41) Dados três valores, A, B, C, verificar se eles podem ser valores dos lados de um triângulo e, se for um triângulo, informar se é um triângulo escaleno, um triângulo equilátero ou um triângulo isóscele. Considerando os seguintes conceitos:
     
-    - O comprimento de cada lado de um triângulo é menor do que a soma dos outros dois lados.
+   - O comprimento de cada lado de um triângulo é menor do que a soma dos outros dois lados.
     
-    - Chama-se equilátero o triângulo que tem três lados iguais.
+   - Chama-se equilátero o triângulo que tem três lados iguais.
     
-    - Chama-se isósceles o triângulo que tem o comprimento de dois lados iguais.
+   - Chama-se isósceles o triângulo que tem o comprimento de dois lados iguais.
     
-    - Recebe o nome de escaleno o triângulo que tem os três lados diferentes.
+   - Recebe o nome de escaleno o triângulo que tem os três lados diferentes.
 
 42) Leia a nota e o número de faltas de um aluno, e escreva seu conceito. De acordo com a tabela abaixo, quando o aluno tem mais de 20 faltas ocorre uma redução de conceito.
 
@@ -132,11 +132,11 @@ Nota | Conceito até 20 faltas | Conceito mais de 20 faltas
 
 43) Faça um programa que leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se aposentar. As condições para aposentadoria são:
     
-    - Ter pelo menos 65 anos;
+   - Ter pelo menos 65 anos;
+   
+   - Ou ter trabalhado pelo menos 30 anos;
     
-    - Ou ter trabalhado pelo menos 30 anos;
-    
-    - Ou ter pelo menos 60 anos e ter trabalhado pelo menos 25 anos.
+   - Ou ter pelo menos 60 anos e ter trabalhado pelo menos 25 anos.
 
 44) Escreva um programa que receba o salário mensal de um funcionário e calcule o valor a ser pago para o Imposto de Renda conforme tabela abaixo:
 
@@ -239,15 +239,15 @@ Finalize a entrada de dados caso o usuário informe o valor 0.
 
 66) Escreva um programa que leia um número inteiro positivo N e em seguida imprima N linhas do chamado Triangulo de Floyd:
 
-1
+**1**
 
-2 3
+**2 3**
 
-4 5 6
+**4 5 6**
 
-7 8 9 10
+**7 8 9 10**
 
-11 12 13 14 15
+**11 12 13 14 15**
 
 67) Faça um programa que some todos os números naturais abaixo de 1000 que são múltiplos de 3 ou 5.
 
@@ -274,11 +274,11 @@ Apresente um programa que receba um valor de N e calcule o valor de Hn.
 
 77) Em uma eleição presidencial existem quatro candidatos. Os votos são informados através de códigos. Os dados utilizados para a contagem dos votos obedecem à seguinte codificação:
 
-    - 1, 2, 3, 4 = voto para os respectivos candidatos;
+   - 1, 2, 3, 4 = voto para os respectivos candidatos;
     
-    - 5 = voto nulo;
+   - 5 = voto nulo;
     
-    - 6 = voto em branco;
+   - 6 = voto em branco;
 
 Elabore um algoritmo que leia o código do candidato em um voto. Calcule e escreva:
 
