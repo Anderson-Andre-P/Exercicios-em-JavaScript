@@ -120,6 +120,7 @@ Nota | Conceito até 20 faltas | Conceito mais de 20 faltas
     • Ou ter pelo menos 60 anos e ter trabalhado pelo menos 25 anos.
 
 44) Escreva um programa que receba o salário mensal de um funcionário e calcule o valor a ser pago para o Imposto de Renda conforme tabela abaixo:
+
 Salário | Alíquota
 :---: | :---:
 Até 1.499,15 | -
@@ -162,7 +163,7 @@ IMC | Classificação
 25,0 - 29,9 | Peso em excesso
 30,0 - 34,9 | Obesidade grau I
 35,0 - 39,9 | Obesidade grau II (severa)
-> 40,0 | Obesidade grau III (mórbida)
+\> 40,0 | Obesidade grau III (mórbida)
 
 51) Escreva um programa que leia a data de nascimento de uma pessoa (dia, mês e ano) e informe se essa pessoa está ou não em idade para votar (16 anos)
 
