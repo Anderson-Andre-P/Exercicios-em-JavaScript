@@ -107,7 +107,7 @@ DigitoV = resto da divisão de S por 7, onde S = 6*A + 5*B + 4*C + 3*D + 2*E
 42) Leia a nota e o número de faltas de um aluno, e escreva seu conceito. De acordo com a tabela abaixo, quando o aluno tem mais de 20 faltas ocorre uma redução de conceito.
 
 Nota | Conceito até 20 faltas | Conceito mais de 20 faltas
------|------------------------|---------------------------
+:---: | :---: | :---:
 9,0 - 10,0 | A | B
 7,5 - 8,9 | B | C
 5.0 - 7.4 | C | D
