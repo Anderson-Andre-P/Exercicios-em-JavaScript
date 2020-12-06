@@ -1,7 +1,7 @@
 # Exercicios-em-JavaScript
 Neste repositório serão colocados alguns exercícios simples de Lógica de programação.
 
-Variáveis e expressões
+**Variáveis e expressões**
 
 1)Faça um programa que peça para o usuário digitar um número real e imprima o dobro desse número.
 
@@ -71,7 +71,7 @@ Seu programa deverá mostrar o valor que cada ganhador deverá receber.
 
 30) Faça um programa para ler um valor de área em hectares e apresentá-lo convertido em metros quadrados m2. A fórmula de conversão é: M = H * 10000, sendo M a área em metros quadrados e H a área em hectares.
 
-Estrutura de Seleção
+**Estrutura de Seleção**
 
 31) Faça um programa que receba dois números e mostre qual deles é maior.
 
