@@ -30,7 +30,9 @@ Neste repositório serão colocados alguns exercícios simples de Lógica de pro
 13) Um prêmio de 456.000,00 será dividido entre três ganhadores com a seguinte distribuição:
 
     1º Lugar - 50% do prêmio
+    
     2º Lugar - 30% do prêmio
+    
     3º Lugar - resto do valor
     
 Seu programa deverá mostrar o valor que cada ganhador deverá receber.
