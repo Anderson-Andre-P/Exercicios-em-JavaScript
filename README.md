@@ -42,9 +42,13 @@ Seu programa deverá mostrar o valor que cada ganhador deverá receber.
 15) Escreva um programa que receba o salário-base de um funcionário, calcule e imprima o salário a receber, sabendo que esse funcionário tem uma gratificação de 5% sobre o salário-base. Além disso, paga 7% de imposto sobre o salário-base.
 
 16) Escreva um algoritmo para criar um programa de ajuda para vendedores. A partir de um valor total lido, mostre:
+
     • o total a pagar com desconto de 10%;
+    
     • o valor de cada parcela, no parcelamento de 3 x sem juros;
+    
     • a comissão do vendedor, no caso de a venda ser a vista (5% sobre o valor com desconto)
+    
     • a comissão do vendedor, no caso de a venda ser parcelada (5% sobre o valor total)
 
 17) Faça um algoritmo que receba a altura do degrau de uma escada e a altura que o usuário deseja alcançar subindo a escada. Calcule e mostre quantos degraus o usuário deverá subir para atingir seu objetivo.
@@ -92,9 +96,13 @@ Seu programa deverá mostrar o valor que cada ganhador deverá receber.
 37) Faça um algoritmo que leia os valores A, B e C. Mostre uma mensagem que informe se a soma de A com B é menor, maior ou igual a C.
 
 38) Faça um programa que receba quatro valores: I, A, B e C. I deve ser um valor inteiro e os outros três valores devem ser valores reais. O programa deve escrever os valores lidos, e:
+
     Se I =1: escreva os valores de A, B e C em ordem crescente;
+    
     Se I =2: escreva os valores de A, B e C em ordem decrescente;
+    
     Se I =3: escreva os valores de A, B e C de forma que o maior fique no centro;
+    
     Se I for diferente dos casos acima: escreva uma mensagem falando que o valor de I está errado;
 
 39) Leia um código de cinco algarismos (numérico) e gere o digito verificador (DigitoV) módulo 7 para o mesmo. Supondo que os cinco algarismos do código são ABCDE, uma forma de calcular o dígito desejado, com módulo 7 é:
@@ -103,9 +111,13 @@ DigitoV = resto da divisão de S por 7, onde S = 6*A + 5*B + 4*C + 3*D + 2*E
 40) Faça um programa que receba três notas e calcule a média aritmética dessas notas. Só é permitido informar notas entre 0 e 10. Caso a média seja maior que 6.0, mostre a mensagem: "Aprovado", caso contrário, mostre a mensagem: "Reprovado".
 
 41) Dados três valores, A, B, C, verificar se eles podem ser valores dos lados de um triângulo e, se for um triângulo, informar se é um triângulo escaleno, um triângulo equilátero ou um triângulo isóscele. Considerando os seguintes conceitos:
+    
     • O comprimento de cada lado de um triângulo é menor do que a soma dos outros dois lados.
+    
     • Chama-se equilátero o triângulo que tem três lados iguais.
+    
     • Chama-se isósceles o triângulo que tem o comprimento de dois lados iguais.
+    
     • Recebe o nome de escaleno o triângulo que tem os três lados diferentes.
 
 42) Leia a nota e o número de faltas de um aluno, e escreva seu conceito. De acordo com a tabela abaixo, quando o aluno tem mais de 20 faltas ocorre uma redução de conceito.
@@ -119,8 +131,11 @@ Nota | Conceito até 20 faltas | Conceito mais de 20 faltas
 0.0 - 3.9 | E | E
 
 43) Faça um programa que leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se aposentar. As condições para aposentadoria são:
+    
     • Ter pelo menos 65 anos;
+    
     • Ou ter trabalhado pelo menos 30 anos;
+    
     • Ou ter pelo menos 60 anos e ter trabalhado pelo menos 25 anos.
 
 44) Escreva um programa que receba o salário mensal de um funcionário e calcule o valor a ser pago para o Imposto de Renda conforme tabela abaixo:
@@ -144,12 +159,15 @@ De 16 a 19 anos | Juvenil B
 Acima de 20 anos | Adulto
 
 46) Faça um programa que receba o sexo de uma pessoa (M ou F) e sua altura. Seu programa deve calcular o peso ideal dessa pessoa conforme as seguintes fórmulas:
+    
     Homens: (72.7 * h) - 58
+    
     Mulheres: (62.1 * h) - 44.7
 
 47) Escreva um programa que converta um valor inteiro positivo para a notação romana. Símbolos utilizados na notação romana: I, V, X, L, C, D, M.
 
 48) Faça um programa que calcule a área de um trapézio. Sabe-se que:
+
 A = (baseMaior + baseMenor) * altura / 2
 
 49) O custo ao consumidor de um carro novo é a soma do custo de fábrica, da comissão do distribuidor, e dos impostos. A comissão e os impostos são calculados sobre o custo de fábrica, de acordo com a tabela abaixo. Leia o custo de fábrica e escreva o custo ao consumidor.
@@ -161,6 +179,7 @@ Entre 12000,01 e 25000,00 | 10 | 15
 Acima de 25000,01 | 15 | 20
 
 50) O IMC (Índice de Massa Corporal) é uma medida do grau de obesidade uma pessoa. Através do cálculo de IMC é possível saber se alguém está acima ou abaixo dos parâmetros ideais de peso para sua estatura. Faça um programa que dado o peso e a altura de uma pessoa, calcule o mostre a sua classificação de IMC conforme tabela e fórmula abaixo:
+
 IMC = peso * altura / 2
 
 IMC | Classificação
@@ -205,19 +224,29 @@ IMC | Classificação
 65) Faça um programa que receba vários números, calcule e mostre:
 
     a) A soma dos números digitados
+    
     b) A quantidade de números digitados
+    
     c) A média dos números digitados
+    
     d) O maior número digitado
+    
     e) O menor número digitado
+    
     f) A média dos números pares
     
 Finalize a entrada de dados caso o usuário informe o valor 0.
 
 66) Escreva um programa que leia um número inteiro positivo N e em seguida imprima N linhas do chamado Triangulo de Floyd:
+
 1
+
 2 3
+
 4 5 6
+
 7 8 9 10
+
 11 12 13 14 15
 
 67) Faça um programa que some todos os números naturais abaixo de 1000 que são múltiplos de 3 ou 5.
@@ -244,11 +273,19 @@ Apresente um programa que receba um valor de N e calcule o valor de Hn.
 76) Chico tem 1.50 metro e cresce 2 centímetros por ano, enquanto Zé tem 1.10 metros e cresce 3 centímetros por ano. Construa um algoritmo que calcule e imprima quantos anos serão necessários para que Zé seja maior que Chico.
 
 77) Em uma eleição presidencial existem quatro candidatos. Os votos são informados através de códigos. Os dados utilizados para a contagem dos votos obedecem à seguinte codificação:
+    
     • 1, 2, 3, 4 = voto para os respectivos candidatos;
+    
     • 5 = voto nulo;
+    
     • 6 = voto em branco;
+
 Elabore um algoritmo que leia o código do candidato em um voto. Calcule e escreva:
+    
     • total de votos para cada candidato;
+    
     • total de votos nulos;
+    
     • total de votos em branco;
+
 Como finalizador do conjunto de votos, tem-se o valor 0.
