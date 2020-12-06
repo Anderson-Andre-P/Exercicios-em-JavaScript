@@ -3,7 +3,7 @@ Neste repositório serão colocados alguns exercícios simples de Lógica de pro
 
 **Variáveis e expressões**
 
-1)Faça um programa que peça para o usuário digitar um número real e imprima o dobro desse número.
+1) Faça um programa que peça para o usuário digitar um número real e imprima o dobro desse número.
 
 2) Faça um programa que leia três números inteiros e imprima a soma deles.
 
