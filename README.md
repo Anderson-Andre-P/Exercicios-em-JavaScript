@@ -1,5 +1,5 @@
 # Exercicios-em-JavaScript
-Neste repositório serão colocados alguns exercícios simples de Lógica de programação.
+Neste repositório serão colocados alguns exercícios simples de Lógica de programação que achei na internet.
 
 **Variáveis e expressões**
 
