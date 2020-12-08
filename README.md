@@ -347,3 +347,5 @@ Como finalizador do conjunto de votos, tem-se o valor 0.
 27- Crie um boletim escolar (formato de tabela, com campos de digitação das notas 1 e 2), onde: serão 3 matérias (matemática, fisíca e química), o usuário deverá fornecer as notas 1 e 2, sendo que a nota 1 tem peso 2 e a nota 2 peso 3, caso na média ponderada o aluno tenha obtido nota inferior a 3 pontos ele está reprovado, caso nota na média ponderada tenha dado nota entre 3 e 6 recuperação e caso nota maior que 7 aprovado;
 
 28- Crie um jogo ou quiz de matemática interativo;
+
+29- Crie uma calculadora de integrais simples;
