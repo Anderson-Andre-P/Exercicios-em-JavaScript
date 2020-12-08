@@ -349,3 +349,5 @@ Como finalizador do conjunto de votos, tem-se o valor 0.
 28- Crie um jogo ou quiz de matemática interativo;
 
 29- Crie uma calculadora de integrais simples;
+
+30- Crie uma calculadora de determinante onde o usuário digitará os 9 números;
