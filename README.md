@@ -289,3 +289,61 @@ Elabore um algoritmo que leia o código do candidato em um voto. Calcule e escre
    - total de votos em branco;
     
 Como finalizador do conjunto de votos, tem-se o valor 0.
+
+***NOTA: você deve ter reparado que os exercícios acima são bem simples e podem ser feitos em qulauqer linguagem não é mesmo? Acredito que após a conclusão deles vocês já estejam prontos para fazer projetos um pouco mais elaborados, então colocarei alguns aqui nessa lista, não colocarei a solução deles propositalmente porque como eles vão ser mais elaborados então tem muita chance de vocês copiarem eles ao invés de realmente fazê-los e o intuito dessa lista de exercícios é levar vocês para o próximo nível. Eu tentarei não colocar o passo a passo do que deve ser feito em cada um deles propositalmente para forçar vocês a serem um pouco mais autodidatas.***
+
+1- Elabore um script que permita o usuário digitar um CPF aleatório e que imprima na tela a mensagem se o CPF digitado é válido ou não. Observação: O usuário poderá digitar somente os 11 números no formato XXXXXXXXXXX ou no formato XXX.XXX.XXX-XX, o usuário também poderá digitar apenas os 9 primeiros dígitos do CPF e o script deve mostrar ao usuário os 2 dígitos verificadores correspondentes aos 9 números digitados;
+
+2- Elabore uma calculadora utilizando HTML + CSS e crie um script em Js que torne essa calculadora funcional;
+
+3- Elabore três botões em HTML + CSS chamados VERDE, AZUL e VERMELHO que ao serem clicados alterem a cor de *background* da página paraa as cores VERDE, AZUL e VERMELHO;
+
+4- Crie um *script* que gere um vetor com 1000 *strings* aleatórias de 3 caracteres e retorne ao usuário quantas dessas strings são palindromos;
+
+5- Crie uma página com HTML + CSS + Js com um botão que ao ser clicado mostra uma frase predefinida aleatória;
+
+6- Crie uma *to do list*;
+
+7- Crie um relógio digital que funcione em tempo real;
+
+8- Crie um verificador de IMC, mas com 1 campo para o usuário digital sua altura, 1 campo para o usuário digitar o seu peso e 1 botão para o usuário clicar e mostrar o resultado;
+
+9- Crie um relógio de contagem regressiva;
+
+10- Crie uma caixa de texto onde o usuário poderá digitar qualquer *string* e que ao clicar no botão 'contadorDeCaracteres' retorne a quantidade de caracteres digitados;
+
+11- Crie um *slider*;
+
+12- Crie um quiz interativo;
+
+13- Crie um lâmpada com interruptor, onde: ao clicar no interruptor a lâmpada acende ou apaga, mas se clicar cinco vezes no interruptor queime a lâmpada;
+
+14- Crie uma *to do list* que tenha um filtro de mensagens;
+
+15- Crie uma carteira digital, onde: o usuário poderá adicionar ou remover dinheiro e que mostre o saldo financeiro de sua carteira;
+
+16- Crie um jogo de cara ou coroa interativo;
+
+17- Crie um jogo interativo de pedra, papel, tesoura;
+
+18- Crie um jogo interativo de pedra, papel, tesoura, largato, spock;
+
+19- Crie um jogo da memória interativo com 5 figuras diferentes;
+
+20- Crie um jogo da velha interativo;
+
+21- Crie um formulário com validação de senha e e-mail. O usuário não poderá criar uma senha tipo *123456* por exemplo;
+
+22- Crie um gerador de senhas válidas com caracteres aleatórios;
+
+23- Crie um player de vídeo;
+
+24- Crie um player de áudio;
+
+25- Crie um relógio de contagem regressiva para o ano novo;
+
+26- Crie um conversor de temperatura;
+
+27- Crie um boletim escolar (formato de tabela, com campos de digitação das notas 1 e 2), onde: serão 3 matérias (matemática, fisíca e química), o usuário deverá fornecer as notas 1 e 2, sendo que a nota 1 tem peso 2 e a nota 2 peso 3, caso na média ponderada o aluno tenha obtido nota inferior a 3 pontos ele está reprovado, caso nota na média ponderada tenha dado nota entre 3 e 6 recuperação e caso nota maior que 7 aprovado;
+
+28- Crie um jogo ou quiz de matemática interativo;
